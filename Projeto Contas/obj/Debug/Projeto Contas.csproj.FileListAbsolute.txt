@@ -1,0 +1,10 @@
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\bin\Debug\Projeto Contas.exe.config
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\bin\Debug\Projeto Contas.exe
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\bin\Debug\Projeto Contas.pdb
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto Contas.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto_Contas.Contas.resources
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto_Contas.Properties.Resources.resources
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto Contas.csproj.GenerateResource.cache
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto Contas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto Contas.exe
+C:\Users\guilh\Desktop\VS\Projeto Contas\Projeto Contas\obj\Debug\Projeto Contas.pdb
